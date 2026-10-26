@@ -75,4 +75,4 @@ Here is the performance comparison chart generated from the simulation output:
 ##  Author
 **Rawan Alotaibi**  
 Computer Science | Focused on Cybersecurity & SOC Operations  
-🔗 [LinkedIn Profile][[(https://www.linkedin.com/in/rawan-alotaibi)](https://www.linkedin.com/in/rawan-alotaibi-](https://www.linkedin.com/in/rawan-alotaibi-077318431/)077318431/)
+🔗 [LinkedIn Profile] www.linkedin.com/in/rawan-alotaibi-077318431
